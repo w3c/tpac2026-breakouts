@@ -8,7 +8,7 @@ The [TPAC schedule](https://www.w3.org/calendar/tpac2026/) will include the sche
 * [Time slot schedule](https://github.com/w3c/tpac2026-breakouts/wiki/Breakout%E2%80%90time%E2%80%90slots). 
 * [Good Practices for Session Chairs](https://github.com/w3c/tpac-breakouts/wiki/Good-Practices-for-Session-Chairs), including instructions for proposing a breakout session, training for your session, and tips for running your session.
 * [Breakout policies](https://github.com/w3c/tpac-breakouts/wiki/Policies) regarding session scope, participation, and how the meeting planners optimize scheduling and room assignments.
-* In case you are making slides, consider using the [TPAC 2026 slide template in HTML]().
+* In case you are making slides, consider using the [TPAC 2026 slide template in HTML](https://www.w3.org/2026/Talks/TPAC/Templates/).
 
 ## Deadlines
 
