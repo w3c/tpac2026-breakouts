@@ -12,5 +12,5 @@ The [TPAC schedule](https://www.w3.org/calendar/tpac2026/) will include the sche
 
 ## Deadlines
 
-* **@@**, for sessions that will be scheduled in advance of TPAC. Session proposals received before @@&nbsp;October will be allocated to the breakout slots on Monday, Tuesday, and Wednesday. We urge participants to propose breakout sessions by @@&nbsp;October so that the meeting planners can work to resolve scheduling conflicts. On @@&nbsp;November we expect to announce the breakout schedule for the first three days of the week.
-* **@@** noon local time, for sessions proposed once TPAC is underway.  We will allocate those sessions to the Thursday afternoon breakout slot. We will allocate the sessions to that slot as we receive them. We do not expect to send a separate announcement of the Thursday breakout sessions.
+* **8 October**, for sessions that will be scheduled in advance of TPAC. Session proposals received before 8&nbsp;October will be allocated to the breakout slots on Monday, Tuesday, and Wednesday. We urge participants to propose breakout sessions by @@&nbsp;October so that the meeting planners can work to resolve scheduling conflicts. On 13&nbsp;October we expect to announce the breakout schedule for the first three days of the week.
+* **29 October** noon local time, for sessions proposed once TPAC is underway.  We will allocate those sessions to the Thursday and Friday breakout slots. We will allocate the sessions to that slot as we receive them. We do not expect to send a separate announcement of the Thursday and Friday breakout sessions.
