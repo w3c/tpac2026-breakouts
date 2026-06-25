@@ -55,11 +55,11 @@ body:
     attributes:
       label: Preferred slots
       description: |
-        Please indicate whether you have a preference that your session take place in a morning slot or an afternoon slot (Europe/Dublin, the local time at the TPAC venue). The default is "No preference."
+        Please indicate whether you have a preference that your session take place in a morning slot or an afternoon slot (Irish Standard Time - IST, the local time at the TPAC venue). The default is "No preference."
       options:
         - No preference (Default)
-        - Morning slot
-        - Afternoon slot
+        - Morning slot (IST)
+        - Afternoon slot (IST)
     validations:
       required: true
 
