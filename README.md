@@ -4,7 +4,7 @@ The [TPAC schedule](https://www.w3.org/calendar/tpac2026/) will include the sche
 
 * [Calendar of breakout sessions](https://www.w3.org/calendar/tpac2026/breakout-sessions/).
 * [List of proposed sessions](../../issues). We welcome expressions of support (through emojis), questions, and other comments.
-* [Propose a session](https://github.com/w3c/tpac2026-breakouts/issues/new?assignees=&labels=session&projects=&template=session.yml)
+* [Propose a session](https://github.com/w3c/tpac2026-breakouts/issues/new?assignees=&labels=session&projects=&template=session.yml); **see deadlines below**.
 * [Time slot schedule](https://github.com/w3c/tpac2026-breakouts/wiki/Breakout%E2%80%90time%E2%80%90slots). 
 * [Good Practices for Session Chairs](https://github.com/w3c/tpac-breakouts/wiki/Good-Practices-for-Session-Chairs), including instructions for proposing a breakout session, training for your session, and tips for running your session.
 * [Breakout policies](https://github.com/w3c/tpac-breakouts/wiki/Policies) regarding session scope, participation, and how the meeting planners optimize scheduling and room assignments.
