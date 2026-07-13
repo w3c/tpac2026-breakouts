@@ -1,5 +1,7 @@
 # TPAC 2026 - Breakout sessions
-This repo is for the W3C community to propose and organize breakout sessions for [TPAC 2026](https://www.w3.org/news-events/tpac/2026/), which takes place 26-30 October 2026 in Dublin, Ireland. We will add the [schedule of breakout sessions](https://www.w3.org/calendar/tpac2026/breakout-sessions/) to the [TPAC calendar](https://www.w3.org/calendar/tpac2026/) around 19 October.
+This repo is for the W3C community to propose and organize breakout sessions for [TPAC 2026](https://www.w3.org/news-events/tpac/2026/), which takes place 26-30 October 2026 in Dublin, Ireland. 
+
+Around 19 October we will add the [schedule of breakout sessions](https://www.w3.org/calendar/tpac2026/breakout-sessions/) for Monday, Tuesday, and Wednesday to the [TPAC calendar](https://www.w3.org/calendar/tpac2026/). Starting 29 October we will add breakout sessions proposed during TPAC to Thursday and Friday slots.
 
 ## Breakout sessions
 
