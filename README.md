@@ -9,6 +9,8 @@ Around 19 October we will add the [schedule of breakout sessions](https://www.w3
 * [Propose a session](https://github.com/w3c/tpac2026-breakouts/issues/new?assignees=&labels=session&projects=&template=session.yml); **see deadlines below**.
 * [Time slot schedule](https://github.com/w3c/tpac2026-breakouts/wiki/Breakout%E2%80%90time%E2%80%90slots).
 
+Note: Issue labels are for internal use by the W3C staff.
+
 ## Preparation
 
 * [Good Practices for Session Chairs](https://github.com/w3c/tpac-breakouts/wiki/Good-Practices-for-Session-Chairs), including instructions for proposing a breakout session, training for your session, and a [checklist for chairs](https://github.com/w3c/tpac-breakouts/wiki/Chair-checklist-during-a-breakout-session) for running a session.
